@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Projects\OWOP-cs\bin\Debug\OWOP-cs.exe.config
+C:\Users\Admin\Documents\Projects\OWOP-cs\bin\Debug\OWOP-cs.exe
+C:\Users\Admin\Documents\Projects\OWOP-cs\bin\Debug\OWOP-cs.pdb
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP-cs.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP_cs.Form1.resources
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP_cs.Properties.Resources.resources
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP-cs.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP-cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP-cs.exe
+C:\Users\Admin\Documents\Projects\OWOP-cs\obj\Debug\OWOP-cs.pdb
